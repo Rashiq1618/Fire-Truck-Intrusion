@@ -25,5 +25,5 @@ Running the Script
 Start CARLA Simulator (CarlaUE4.exe)
 
 Run the Python script:
-python firetruck_intrusion_simulation.py
+python fire_truck_intrusion.py
 Press q in the OpenCV window to quit early.
